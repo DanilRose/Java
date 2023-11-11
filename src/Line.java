@@ -1,4 +1,3 @@
-import java.awt.Point;
 
 public class Line {
     Point start, end;
