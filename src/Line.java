@@ -14,7 +14,7 @@ public class Line {
     public String toString() {
         return "Линия с началом" + " {" + start + "} " + "и с концом" + "{" + end + "}";
     }
-
+    int a;
     public static void test2_1(){
         Point point1 = new Point(1, 3);
         Point point2 = new Point(23, 8);
