@@ -11,7 +11,7 @@ public class Line {
         this(new Point(x1, y1), new Point(x2, y2));
     }
     public String toString() {
-        return "Линия с началом" + " {" + start + "} " + "и с концом" + "{" + end + "}";
+        return "Линия с началом" + " " + start + " и с концом"  + " " + end;
     }
     int a;
     public static void test2_1(){
