@@ -1,9 +1,8 @@
 public class Point {
-    private int x;
-    private int y;
+    int x;
+    int y;
 
     public Point(){
-
     }
     public Point (int x){
         this.x = x;
